@@ -1,0 +1,9 @@
+spring:
+  mail:
+    host: smtp.163.com
+#    发送者账号
+    username: 18816265642@163.com
+#    授权密码，非登录密码
+    password: Zpc123456
+
+    default-encoding: UTF-8
